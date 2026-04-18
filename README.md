@@ -1,63 +1,47 @@
-# 👋 Hola, soy Carlos Javier Torres Pensa  
-> Desarrollador Android · Arquitecto de sistemas · Creador de PensaInfra  
+# Hola, soy Carlos 👋
+
+Desarrollador Android con más de una década de experiencia. Trabajo con **Kotlin**, arquitecturas limpias y automatización. En mi tiempo libre construyo herramientas y las publico porque quizás le sirven a alguien más.
 
 ---
 
-### 🧭 Sobre mí
+## 📱 Apps en Play Store
 
-Soy **Carlos**, un desarrollador que disfruta tanto del código como de la estructura detrás de las ideas.  
-Desde hace más de una década trabajo con **Android**, **Kotlin** y **arquitecturas limpias**,  
-siempre buscando que la tecnología tenga propósito, coherencia y elegancia.
-
-Me interesa entender cómo las cosas se conectan,  
-cómo un sistema se sostiene a sí mismo,  
-y cómo un pequeño ajuste puede cambiar el comportamiento completo de un entorno.  
+| App | Descripción |
+|---|---|
+| [**GitHub Reviewer**](https://play.google.com/store/apps/details?id=ar.pensa.githubreviewer) | Cliente móvil para revisar repos y PRs de GitHub |
+| [**Buenas Frases**](https://play.google.com/store/apps/details?id=com.torrancio.buenasfrases) | Frases célebres |
+| [**DNI Scanner**](https://play.google.com/store/apps/details?id=ar.com.pensa.dniscanner) | Escáner de DNI argentino |
 
 ---
 
-### 🧩 PensaInfra · mi espacio personal de creación
+## 🌐 Proyectos web
 
-**PensaInfra** es mi ecosistema técnico y creativo.  
-Un conjunto de proyectos donde combino desarrollo, automatización y diseño de sistemas:  
-
-- **PensaCore** — Servidor principal con Ubuntu y Docker.  
-- **PensaAlert** — Sistema de monitoreo y notificaciones.  
-- **PensaExec** — API local para ejecución inteligente.  
-- **RetroHub** — Espacio retro-interactivo (Metroid, NES, etc.).  
-- **PensaDOS** — La segunda iteración del pensamiento, *de Orden Superior.*
-
-Cada pieza de este universo busca resolver algo real,  
-pero también expresar una forma de pensar el software: **ordenado, modular y vivo.**
+| Sitio | Descripción |
+|---|---|
+| [buenasfrases.com](https://buenasfrases.com) | Frases célebres |
+| [cursos.pensa.ar](https://cursos.pensa.ar) | Cursos de desarrollo Android |
+| [jsonparser.pensa.ar](https://jsonparser.pensa.ar) | JSON parser con opción de compartir por URL |
+| [venezuela.pensa.ar](https://venezuela.pensa.ar) | Diccionario de modismos venezolanos |
+| [metroid.pensa.ar](https://metroid.pensa.ar) | Juegos retro en el navegador |
+| [metroido.pensa.ar](https://metroido.pensa.ar) | Homenaje a Metroid Prime |
 
 ---
 
-### ⚙️ Cómo entiendo el desarrollo
+## 🛠️ Stack
 
-Para mí, el desarrollo no es solo resolver problemas:  
-es **crear estructuras que piensen por sí mismas.**
-
-Me gusta trabajar con código que se pueda leer como una conversación,  
-infraestructuras que evolucionen sin perder claridad,  
-y herramientas que nos liberen del ruido para enfocarnos en lo esencial.  
-
-> “El buen código no se impone; fluye.”  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 🔭 Intereses actuales
+## 🔗 Links
 
-- Arquitectura limpia en Android (Kotlin + Gradle + modularización).  
-- Automatización con Docker, FastAPI y Nginx.  
-- Integraciones CI/CD y herramientas internas.  
-- Autohospedaje, redes seguras y observabilidad.  
-- Diseño de sistemas que sean sostenibles y humanos.  
-
----
-
-### 🧩 Un cierre
-
-No busco construir el sistema perfecto,  
-sino uno que **evolucione conmigo**.  
-
-\- **Carlos Javier Torres Pensa**  
-`@carolusx74` — *pensando en sistemas desde adentro hacia afuera.*
+- 🌐 Infra personal: [pensa.ar](https://pensa.ar)
+- 💼 Portfolio: [pensa.com.ar](https://pensa.com.ar)
+- 👔 LinkedIn: [carlospensa](https://www.linkedin.com/in/carlospensa/)
+- 📦 Play Store: [Pensa](https://play.google.com/store/apps/developer?id=Pensa)
+- 🏢 Organización: [pensados](https://github.com/pensados)
