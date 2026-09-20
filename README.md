@@ -1,6 +1,18 @@
 # Hola, soy Carlos 👋
 
-Desarrollador Android con más de una década de experiencia. Trabajo con **Kotlin**, arquitecturas limpias y automatización. En mi tiempo libre construyo herramientas y las publico porque quizás le sirven a alguien más.
+Desarrollador Android con más de una década de experiencia. Trabajo con **Kotlin**, arquitecturas limpias y automatización. Hoy construyo y opero SentinelX bajo **Pensa Software**, y publico como open source lo que puede serlo.
+
+---
+
+## 🛡️ SentinelX — [sentinelx.app](https://sentinelx.app/)
+
+**Lo que más me ocupa hoy.** Un servidor MCP que le permite a Claude o ChatGPT gestionar tu flota de servidores Linux, macOS y Windows: multi-host, gestionado por un hub central, con allowlist de comandos y operaciones auditables.
+
+[![Web](https://img.shields.io/badge/web-sentinelx.app-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://sentinelx.app/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-connector-10a37f?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/plugins/plugin_asdk_app_69f63e01766881919640f03b5e7912a5)
+[![Agente](https://img.shields.io/badge/sentinelx--cloud--core-Apache%202.0-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-cloud-core)
+
+El agente es open source (Apache-2.0); el hub es un servicio gestionado bajo **Pensa Software**. El código vive en [pensados](https://github.com/pensados).
 
 ---
 
@@ -40,8 +52,8 @@ Desarrollador Android con más de una década de experiencia. Trabajo con **Kotl
 
 ## 🔗 Links
 
-- 🌐 Infra personal: [pensa.ar](https://pensa.ar)
-- 💼 Portfolio: [pensa.com.ar](https://pensa.com.ar)
+- 🏢 Pensa Software: [pensa.ar](https://pensa.ar)
+- 💼 Portfolio personal: [pensa.com.ar](https://pensa.com.ar)
 - 👔 LinkedIn: [carlospensa](https://www.linkedin.com/in/carlospensa/)
 - 📦 Play Store: [Pensa](https://play.google.com/store/apps/developer?id=Pensa)
-- 🏢 Organización: [pensados](https://github.com/pensados)
+- 🧠 Organización: [pensados](https://github.com/pensados)
